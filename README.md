@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kalp
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning stuffs
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kalp3trivedi@gmail.com
